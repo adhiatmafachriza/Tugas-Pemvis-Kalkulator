@@ -1,2 +1,2 @@
 # Tugas-Pemvis-Kalkulator
-program kalkulator ilmiah
+Oleh Fachriza Dian Adhiatma - 18051204061. Program kalkulator ilmiah
